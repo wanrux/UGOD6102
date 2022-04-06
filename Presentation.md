@@ -6,5 +6,3 @@ Presentation Arrangement:
 |April 22 |             |           |             |           |             |           |
 |April 29 |             |           |             |           |             |           |
 |May 6    |             |           |             |           |             |           |
-
-Instructor: Wanru
