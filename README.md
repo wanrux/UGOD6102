@@ -1,5 +1,6 @@
 # UGOD6102 Introduction to GitHub
 In-class exercise
+
 Practice:
 1. Create a branch
 2. Edit the file
